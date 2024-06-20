@@ -1,0 +1,32 @@
+h1{
+    font-weight: bolder;
+    text-align: center;
+    font-family: sans-serif;
+}
+h3{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#first{
+    font-weight: bold;
+    background-color:#71816D;
+    border: 2px solid black;
+}
+#forth{
+    font-weight: 900px;
+}
+#second{
+    padding: 5px;
+    text-align: center;
+    background-color: #C9B79C;
+    border: 2px solid black;
+    line-height: 20px;
+    letter-spacing: 1px;
+    background-image: url("Work4.jpg");
+    background-size: cover;
+}
+
+#third{
+    font-family: sans-serif;
+}
